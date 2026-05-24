@@ -1,0 +1,6 @@
+{
+  "name": "Image to PSD Converter",
+  "description": "A high-performance web tool to convert and compose images, custom text, and solid shape layers into standard multi-layer Photoshop PSD documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
